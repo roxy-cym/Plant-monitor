@@ -82,8 +82,14 @@ An IoT device used to check the humidity,temperature and moisture levels of your
   * Short circuit
 The circuit is not connected
 * Solution:  
-  * Referring the sketch / schematic of the circuit,do it again! The position of each part does not need to be exactly the same as Fritzing diagram, but the connection structure of the circuit must refer to the sketch / schematic
-  * Soldering and Assembly
+  * Referring the sketch / schematic of the circuit,do it again! The position of each part does not need to be exactly the same as Fritzing diagram, but the connection structure of the circuit must refer to the sketch / schematic  
+  
+  >><img src="https://github.com/roxy-cym/img/blob/main/Plant%20monitor/IMG_6814.JPG" width="1000" height="400" alt="Circuit"/>  
+  
+  * Soldering and Assembly  
+    
+  >><img src="https://github.com/roxy-cym/img/blob/main/Plant%20monitor/IMG_6813.JPG" width="1000" height="400" alt="Soldering"/> 
+  
 ## 4.Code+Comments
 * Detailed explanations and Author's understanding for the code can be seen here [Plant Monitor](https://github.com/roxy-cym/plant-monitor/tree/main/MQTT_with_nails)
 
