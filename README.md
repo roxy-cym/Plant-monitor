@@ -75,11 +75,17 @@ An IoT device used to check the humidity,temperature and moisture levels of your
   * Adding your first datasource-InfluxDB
   * Create Dashboard and seeing the data     
 
-## 3.Problems and Solutions
-* Changing the circuit
-* Soldering and Assembly
+## 3.Problems and Solutions  
+* Problem Description:When I connected the circuit referring to The Fritzing diagram，Putting the nail in a different environment.The Moisture value does not change  
+* Analyzing:  
+  * The connection between the various parts is unstable-result in disconnection of the circuit
+  * Short circuit
+The circuit is not connected
+* Solution:  
+  * Referring the sketch / schematic of the circuit,do it again! The position of each part does not need to be exactly the same as Fritzing diagram, but the connection structure of the circuit must refer to the sketch / schematic
+  * Soldering and Assembly
 ## 4.Code+Comments
-Detailed explanations and Author's understanding for the code can be seen here [Plant Monitor](https://github.com/roxy-cym/plant-monitor/tree/main/MQTT_with_nails)
+* Detailed explanations and Author's understanding for the code can be seen here [Plant Monitor](https://github.com/roxy-cym/plant-monitor/tree/main/MQTT_with_nails)
 
 ## 5.Improvement
 
