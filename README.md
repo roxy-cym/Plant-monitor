@@ -53,7 +53,7 @@ An IoT device used to check the humidity,temperature and moisture levels of your
   * Installing ezTime library on Arduino
   * Printing the time    [TestTime](https://github.com/roxy-cym/plant-monitor/tree/main/TestTime) 
    
-* Schematics and building a soil moisture sensor 
+* Schematics and building a plant monitor 
 ![](https://github.com/roxy-cym/img/blob/main/Plant%20monitor/circuit.png)   
   Picture source:Connected environment course  
   
