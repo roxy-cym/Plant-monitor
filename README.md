@@ -64,7 +64,15 @@ An IoT device used to check the humidity,temperature and moisture levels of your
   * Connecting MQTT server to see the real time data from your plant monitor  
   
 * Storing data on a RPI gateway
+  * Installing Raspberry Pi imager  
+  * Select sd card and setup some of the SSH / SSID info  
+  * Insert the card into the RPi and power it up  
+  * Log into the device using SSH    
 * Visualise time series data  
+  * Installing the Influx, Telegraf and Grafana  
+  * Going the address http://hostname.local:3000  
+  * Adding your first datasource  
+  * Create Dashboard and seeing the data     
 
 ## 3.Problems and Solutions
 * Changing the circuit
