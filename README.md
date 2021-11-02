@@ -53,8 +53,8 @@ An IoT device used to check the humidity,temperature and moisture levels of your
   * Installing ezTime library on Arduino
   * Printing the time    [TestTime](https://github.com/roxy-cym/plant-monitor/tree/main/TestTime) 
    
-* Schematics and build a soil moisture sensor 
->>![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)   
+* Schematics and building a soil moisture sensor 
+![](https://github.com/roxy-cym/img/blob/main/Plant%20monitor/circuit.png)   
   Picture source:Connected environment course  
   
 * Publishing soil data to an MQTT server   
@@ -68,7 +68,7 @@ An IoT device used to check the humidity,temperature and moisture levels of your
   * Select sd card and setup some of the SSH / SSID info  
   * Insert the card into the RPi and power it up  
   * Log into the device using SSH    
-* Visualise time series data  
+* Visualising time series data  
   * Installing the Influx, Telegraf and Grafana  
   * Setting up Telegraf configuration   [Telegraf configuration](https://github.com/roxy-cym/plant-monitor/tree/main/Telegraf%20Configuration) 
   * Going the address http://hostname.local:3000  
