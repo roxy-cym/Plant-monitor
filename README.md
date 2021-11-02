@@ -84,6 +84,8 @@ The circuit is not connected
 * Solution:  
   * Referring the sketch / schematic of the circuit,do it again! The position of each part does not need to be exactly the same as Fritzing diagram, but the connection structure of the circuit must refer to the sketch / schematic  
   
+  >><img src="https://github.com/roxy-cym/img/blob/main/Plant%20monitor/schematics.png" width="1000" height="400" alt="schematics"/>  
+  >>  
   >><img src="https://github.com/roxy-cym/img/blob/main/Plant%20monitor/IMG_6814.JPG" width="1000" height="400" alt="Circuit"/>  
   * Soldering and Assembly  
   
