@@ -2,8 +2,7 @@
 ## 1.Overview
 An IoT device used to check the humidity,temperature and moisture levels of your plants and keep your plants in a good condition.  
 
- ![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)  
- 
+ <img src="https://github.com/roxy-cym/img/blob/main/Plant%20monitor/IMG_6810.JPG" width="1000" height="400" alt="procedures"/>
  
 ## 2.Story
 * **Introduction**  
@@ -12,11 +11,12 @@ An IoT device used to check the humidity,temperature and moisture levels of your
 
 * **Demonstration Picture**
  >>Before your build-up, your need to have a clear overview about how the device looks like, this picture shows the plant monitor, when putting the nails in the soil, the whole circuit is complete,running the sketch on Arduino,it will show m,t,h value.  
- >>![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)  
+    
+ >><img src="https://github.com/roxy-cym/img/blob/main/Plant%20monitor/IMG_6811.JPG" width="1000" height="800" alt="plant monitor"/> 
 
 * **Things used in this project**
 
-  * Hardware components    
+>>>>**Hardware components**      
 >>>>name  | number  
 >>>>---- | ----- 
 >>>>Arduino Feather Huzzah ESP8266  | 1 
@@ -29,16 +29,18 @@ An IoT device used to check the humidity,temperature and moisture levels of your
 >>>>Nails  | 2
  
   
-   * Software apps（oder by using order)      
- >>>>Arduino IDE    [Arduino IDE download](https://www.baidu.com/)  
- >>>>CP210*VCPDriver   [CP210Driver download](https://www.baidu.com/)  
- >>>>MQTT Explorer     [MQTT Explore download](https://www.baidu.com/)  
- >>>>Raspberry pi imager   [Raspberry download](https://www.baidu.com/)  
- >>>>Telegraf     [Telegraf download](https://www.baidu.com/)  
- >>>>InfluxDB     [InfluxDB download](https://www.baidu.com/)  
- >>>>Grafana     [Grafana download](https://www.baidu.com/)  
+ >>>>**Software apps**  
+     
+ >>>>Arduino IDE    [Arduino IDE download](https://www.arduino.cc/en/software)  
+ >>>>CP210*VCPDriver   [CP210Driver download](https://learn.adafruit.com/adafruit-feather-huzzah-esp8266/using-arduino-ide)  
+ >>>>MQTT Explorer     [MQTT Explore download](http://mqtt-explorer.com/)  
+ >>>>Raspberry pi imager   [Raspberry download](https://www.raspberrypi.com/software/)  
+ >>>>Telegraf     [Telegraf download](https://github.com/influxdata/telegraf/releases)  
+ >>>>InfluxDB     [InfluxDB download](https://portal.influxdata.com/downloads/#influxdb)  
+ >>>>Grafana       
  
-  * Hand tools    
+ >>>>**Hand tools** 
+     
  >>>>Soldering iron  
  
 * Setting up Feather Huzzah ESP8266 Wifi  
