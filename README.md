@@ -49,11 +49,11 @@ An IoT device used to check the humidity,temperature and moisture levels of your
   * Installing CP210*VCPDriver    
   * Installing the ESP8266 Board Package  
   * Setup ESP8266 Support:CPU frequency-80 MHz, Upload Speed-115200, matching COM port-"SLAB_USBtoUART"
-  * Connecting via WiFI  [TestWifi](https://www.baidu.com/)  
+  * Connecting via WiFI  [TestWifi](https://github.com/roxy-cym/plant-monitor/tree/main/TestWifi)  
   
 * Setting the time on the Feather Huzzah ESP8266
   * Installing ezTime library on Arduino
-  * Printing the time    [TestTime](https://www.baidu.com/) 
+  * Printing the time    [TestTime](https://github.com/roxy-cym/plant-monitor/tree/main/TestTime) 
    
 * Schematics and build a soil moisture sensor 
 >>![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)   
@@ -62,7 +62,7 @@ An IoT device used to check the humidity,temperature and moisture levels of your
 * Publishing soil data to an MQTT server   
   * Installing MQTT Explorer  
   * Installing PubSubClient library on Arduino
-  * Uploading MQTT with nails sketch to send data to MQTT server  [MQTT with nails](https://www.baidu.com/)  
+  * Uploading MQTT with nails sketch to send data to MQTT server  [MQTT with nails](https://github.com/roxy-cym/plant-monitor/tree/main/MQTT_with_nails)  
   * Connecting MQTT server to see the real time data from your plant monitor  
   
 * Storing data on a RPI gateway
