@@ -76,7 +76,8 @@ An IoT device used to check the humidity,temperature and moisture levels of your
   * Create Dashboard and seeing the data     
 
 ## 3.Problems and Solutions  
-* Problem Description:When I connected the circuit referring to The Fritzing diagram，Putting the nail in a different environment.The Moisture value does not change  
+* Problem Description:  
+  * When I connected the circuit referring to The Fritzing diagram，Putting the nail in a different environment.The Moisture value does not change  
 * Analyzing:  
   * The connection between the various parts is unstable-result in disconnection of the circuit
   * Short circuit
