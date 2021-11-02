@@ -29,8 +29,7 @@ An IoT device used to check the humidity,temperature and moisture levels of your
 >>>>Nails  | 2
  
   
- >>>>**Software apps**  
-     
+ >>>>**Software apps**     
  >>>>Arduino IDE    [Arduino IDE download](https://www.arduino.cc/en/software)  
  >>>>CP210*VCPDriver   [CP210Driver download](https://learn.adafruit.com/adafruit-feather-huzzah-esp8266/using-arduino-ide)  
  >>>>MQTT Explorer     [MQTT Explore download](http://mqtt-explorer.com/)  
@@ -39,8 +38,7 @@ An IoT device used to check the humidity,temperature and moisture levels of your
  >>>>InfluxDB     [InfluxDB download](https://portal.influxdata.com/downloads/#influxdb)  
  >>>>Grafana       
  
- >>>>**Hand tools** 
-     
+ >>>>**Hand tools**    
  >>>>Soldering iron  
  
 * Setting up Feather Huzzah ESP8266 Wifi  
@@ -72,15 +70,16 @@ An IoT device used to check the humidity,temperature and moisture levels of your
   * Log into the device using SSH    
 * Visualise time series data  
   * Installing the Influx, Telegraf and Grafana  
+  * Setting up Telegraf configuration   [Telegraf configuration](https://github.com/roxy-cym/plant-monitor/tree/main/Telegraf%20Configuration) 
   * Going the address http://hostname.local:3000  
-  * Adding your first datasource  
+  * Adding your first datasource-InfluxDB
   * Create Dashboard and seeing the data     
 
 ## 3.Problems and Solutions
 * Changing the circuit
 * Soldering and Assembly
 ## 4.Code+Comments
-Detailed explanations and Author's understanding for the code can be seen here [Plant Monitor](https://www.baidu.com/)
+Detailed explanations and Author's understanding for the code can be seen here [Plant Monitor](https://github.com/roxy-cym/plant-monitor/tree/main/MQTT_with_nails)
 
 ## 5.Improvement
 
