@@ -57,7 +57,7 @@ An IoT device used to check the humidity,temperature and moisture levels of your
 ![](https://github.com/roxy-cym/img/blob/main/Plant%20monitor/circuit.png)   
   Picture source:Connected environment course  
   
-* Publishing soil data to an MQTT server   
+* Connecting to the MQTT server and publishing soil data to an MQTT server   
   * Installing MQTT Explorer  
   * Installing PubSubClient library on Arduino
   * Uploading MQTT with nails sketch to send data to MQTT server  [MQTT with nails](https://github.com/roxy-cym/plant-monitor/tree/main/MQTT_with_nails)  
