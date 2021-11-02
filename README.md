@@ -1,6 +1,6 @@
 # Plant monitor
 ## 1.Overview
-An IoT device used to check the humidity,temperature and moisture levels of your plants and keep your plants safe.  
+An IoT device used to check the humidity,temperature and moisture levels of your plants and keep your plants in a good condition.  
 
  ![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)  
  
