@@ -96,6 +96,6 @@ The circuit is not connected
 * Detailed explanations and Author's understanding for the code can be seen here [Plant Monitor](https://github.com/roxy-cym/plant-monitor/tree/main/MQTT_with_nails)
 
 ## 5.Improvement  
-[Improvment](https://github.com/roxy-cym/plant-monitor/blob/main/Improvment/Improvment.ino)
+* [Improvment](https://github.com/roxy-cym/plant-monitor/blob/main/Improvment/Improvment.ino)
 
 
