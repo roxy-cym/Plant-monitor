@@ -213,7 +213,7 @@ void loop() {
   client.loop();
 }
 
-
+//7.The rest of the code is to define all the functions that are called in the setup() and loop()
 void readMoisture(){
   
   // power the sensor
