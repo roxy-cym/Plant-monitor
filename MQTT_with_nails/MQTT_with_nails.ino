@@ -64,6 +64,11 @@ Code Source: Connected environment course
 
       sendHTML()
                   write the whole structure of the page using html
+ 
+                 
+                  
+   四、diving code into 5 parts.Putting the functions that mentioned before into the 5 parts
+                  
 */
 
 
@@ -104,7 +109,7 @@ int blueLED = 2;
 DHT dht(DHTPin, DHTTYPE);   // Initialize DHT sensor.
 
 
-//3.Connecting Wifi and MQTT
+//5.outter part-Connecting Wifi and MQTT
 #include "arduino_secrets.h" 
 /*
 Adding new tab,naming the new tab as arduino_secrets.h putting the sensitive data into the file
@@ -135,10 +140,10 @@ long lastMsg = 0;
 char msg[50];
 int value = 0;
 
-// 4.Date and time-In this case time used for refresh the data which is collecting from the plant.Once the current time change, print the value of h,m,t
+// 5.outter part-Date and time-In this case time used for refresh the data which is collecting from the plant.Once the current time change, print the value of h,m,t
 Timezone GB;
 
-/*5. setup functions
+/*3. setup functions
  * 
  *  define which pin act as Output or Input:                
  *  
@@ -196,7 +201,7 @@ void setup() {
   client.setCallback(callback);
 
 }
-/*6.loop
+/*4.loop
  * setting a handleClient for receiving requests to webserver
  * if the time changed,read the misture again and send the real-time data to the Mqtt and print the current time
  * readMoisture()
@@ -213,7 +218,7 @@ void loop() {
   client.loop();
 }
 
-//7.The rest of the code is to define all the functions that are called in the setup() and loop()
+//5.The rest of the code is to define all the functions that are called in the setup() and loop()
 void readMoisture(){
   
   // power the sensor
