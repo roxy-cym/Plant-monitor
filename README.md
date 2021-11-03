@@ -73,8 +73,8 @@ An IoT device used to check the humidity,temperature and moisture levels of your
   * Setting up Telegraf configuration   [Telegraf configuration](https://github.com/roxy-cym/plant-monitor/tree/main/Telegraf%20Configuration) 
   * Going the address http://hostname.local:3000  
   * Adding your first datasource-InfluxDB
-  * Create Dashboard and seeing the data     
-
+  * Create Dashboard and seeing the data   
+>><img src="https://github.com/roxy-cym/img/blob/main/Plant%20monitor/Visualization.png " width="800" height="300" alt="Soldering"/> 
 ## 3.Problems and Solutions  
 * Problem Description:  
   * When I connected the circuit referring to The Fritzing diagram，Putting the nail in a different environment.The Moisture value does not change  
